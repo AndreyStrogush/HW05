@@ -20,12 +20,10 @@ public enum Operations {
     }
 
     public double getResult(double d1, double d2) {
-
         return operator.applyAsDouble(d1, d2);
     }
 
     public String getSymbol() {
-
         return symbol;
     }
 }

@@ -2,7 +2,7 @@ package com.homework;
 
 import java.util.Scanner;
 
-public class CalculatorRunner {
+public class CalculatorApp {
     public static void run() {
         Scanner scanner = new Scanner(System.in);
 
